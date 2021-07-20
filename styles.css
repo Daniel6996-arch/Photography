@@ -3,3 +3,20 @@
     height: 200px;
     width: 300px;
 }
+header{
+    background-color: burlywood;
+}
+.type{
+    color: blue;
+    font-family: sans-serif;
+    text-align: left;
+}
+div p{
+    font-style: italic;
+
+}
+footer{
+    color: green;
+    border: dashed bisque;
+    background-color: ;
+}
