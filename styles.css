@@ -1,10 +1,7 @@
-#type0{
+header{
     border: 2px solid grey;
     height: 200px;
     width: 300px;
-}
-header{
-    background-color: burlywood;
 }
 .type{
     color: blue;
