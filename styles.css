@@ -2,7 +2,7 @@ body{
     background-color: blueviolet;
 }
 header{
-    color: chocolate;
+    color: blue;
     text-align: right;
     font-family: sans-serif;
     font-style: italic;
@@ -12,4 +12,12 @@ header{
 #type0{
     height: 300px;
     width: 500px;
+}
+img{
+    height: 300px;
+    width: 500px;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
 }
