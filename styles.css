@@ -15,12 +15,13 @@ header img,h1{
 }
 img{
     height: 300px;
-    width: 500px;
+    width: 300px;
     flex-wrap: wrap;
     float: column;
     clear: left;
     flex-wrap: nowrap;
-    flex-flow: column;
+    flex-flow: row;
+    position: relative;
 }
 h1{
     text-align: center;
@@ -31,4 +32,7 @@ ul{
 footer a:hover{
     color: blueviolet;
     background-color: cornflowerblue;
+}
+footer{
+    border: 2px dotted gray;
 }
