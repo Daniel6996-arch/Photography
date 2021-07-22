@@ -1,9 +1,9 @@
 body{
     background-color: blueviolet;
 }
-header{
+header img,h1{
     color: blue;
-    text-align: right;
+    text-align: center;
     font-family: sans-serif;
     font-style: italic;
     border: 2px solid green;
@@ -17,7 +17,14 @@ img{
     height: 300px;
     width: 500px;
     flex-wrap: wrap;
+    float: column;
+    clear: left;
+    flex-wrap: nowrap;
+    flex-flow: column;
 }
 h1{
     text-align: center;
+}
+ul{
+    text-align: left;
 }
