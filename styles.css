@@ -1,5 +1,6 @@
 body{
     background-color: blueviolet;
+    box-sizing: border-box;
 }
 header img,h1{
     color: blue;
