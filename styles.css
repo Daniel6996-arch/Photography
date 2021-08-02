@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    
     box-sizing: border-box;
 }
 header img,h1{
@@ -13,6 +13,8 @@ header img,h1{
 #type0{
     height: 300px;
     width: 500px;
+    position: relative;
+    left: 35%;
 }
 img{
     height: 300px;
@@ -23,17 +25,30 @@ img{
     flex-wrap: nowrap;
     flex-flow: row;
     position: relative;
+    margin: 30px;
 }
 h1{
     text-align: center;
 }
-ul{
+.ul{
     text-align: left;
-}
-footer a:hover{
-    color: blueviolet;
-    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    padding: 10px;
+    background-color: gray;
 }
 footer{
     border: 2px dotted gray;
+    background-color: darkkhaki;
 }
+.image{
+    background-color: black;
+    color: lightgrey;
+}
+.typ{
+   background: url("./websitephoto");
+   background-repeat: no-repeat;
+   background-size: cover;
+   {
