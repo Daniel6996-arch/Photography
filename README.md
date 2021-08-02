@@ -8,7 +8,7 @@ https://Daniel6996-arch.github.io/Photography-project/
 ## Setup/Installation Requirements
 *This website best works on latest version browsers.
 *This website is dependency free therefore depends on NO other code or application.
-## Design
+## Website Design
 https://miro.com/app/board/o9J_l5LpJsE=/
 ## Support and contact details
 contact@daniel.nyutu@student.moringaschool.com
